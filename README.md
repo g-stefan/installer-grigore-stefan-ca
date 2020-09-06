@@ -1,2 +1,2 @@
 # installer-grigore-stefan-ca
-Grigore stefan CA Installer
+Grigore Stefan CA Installer
