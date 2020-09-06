@@ -5,4 +5,5 @@ rem Created by Grigore Stefan <g_stefan@yahoo.com>
 
 if not exist vendor\ mkdir vendor
                                                                         
-if not exist vendor\grigore-stefan.ca.crt.7z curl --insecure --location https://github.com/g-stefan/grigore-stefan.ca/releases/download/v1.0.0/grigore-stefan.ca.crt.7z --output vendor\grigore-stefan.ca.crt.7z
+set WEB_LINK=https://github.com/g-stefan/grigore-stefan.ca/releases/download/v1.0.0/grigore-stefan.ca.crt.7z
+if not exist vendor\grigore-stefan.ca.crt.7z curl --insecure --location %WEB_LINK% --output vendor\grigore-stefan.ca.crt.7z

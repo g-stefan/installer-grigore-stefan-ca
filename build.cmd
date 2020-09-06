@@ -4,7 +4,7 @@ rem http://unlicense.org/
 rem Created by Grigore Stefan <g_stefan@yahoo.com>
 
 set ACTION=%1
-if "%1" == "" set ACTION=make
+if "%1" == "" set ACTION=release
 echo -^> %ACTION% grigore-stefan-ca
 
 call build.%ACTION%.cmd
