@@ -22,10 +22,10 @@ Unicode True
 RequestExecutionLevel admin
 BrandingText "Grigore Stefan [ github.com/g-stefan ]"
 
-!define SoftwareInstallDir "$PROGRAMFILES64\Grigore Stefan"
-!define SoftwareMainDir "\Grigore Stefan"
+!define SoftwareInstallDir "$PROGRAMFILES64\XYO"
+!define SoftwareMainDir "\XYO"
 !define SoftwareSubDir "\Certificate CA"
-!define SoftwareRegKey "Software\Grigore Stefan\Certificate CA"
+!define SoftwareRegKey "Software\XYO\Certificate CA"
 !define UninstallRegKey "Software\Microsoft\Windows\CurrentVersion\Uninstall\Grigore Stefan CA"
 !define UninstallName "Uninstall Certificate CA"
 
