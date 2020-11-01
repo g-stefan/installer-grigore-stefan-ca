@@ -13,7 +13,7 @@
 Name "Grigore Stefan CA"
 
 ; Version
-!define GrigoreStefanCAVersion "2020.08.07"
+!define GrigoreStefanCAVersion "$%PRODUCT_VERSION%"
 
 ; The file to write
 OutFile "installer\grigore-stefan-ca-${GrigoreStefanCAVersion}-installer.exe"
