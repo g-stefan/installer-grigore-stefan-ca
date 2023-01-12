@@ -1,0 +1,15 @@
+{
+	"solution": {
+		"name" : "installer-grigore-stefan-ca",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "installer-grigore-stefan-ca",
+				"SPDX-License-Identifier": "MIT",
+				"version" : "2020.08.07",
+				"noVersion" : true
+			}
+		],
+		"hasGithub" : true
+	}
+}
